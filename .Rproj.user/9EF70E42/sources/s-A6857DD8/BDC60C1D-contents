@@ -1,0 +1,17 @@
+---
+title: "to my classmate chifu"
+author: "Pun"
+date: "2019年3月13日"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+"呆頭鵝"
+"goose"
+```{r}
+poopoo
+```
+
